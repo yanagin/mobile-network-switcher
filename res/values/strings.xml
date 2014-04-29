@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mobile Network Switcher Pro</string>
+
+    <string name="blank"></string>
+
+    <!-- 接続・切断ダイアログ -->
+    <string name="connecting_dialog_message">connecting&#8230;</string>
+    <string name="disconnecting_dialog_message">disconnecting&#8230;</string>
+
+    <!-- 連携アプリケーション選択画面 -->
+    <string name="application_scaning">Now application scanning&#8230;</string>
+    <string name="application_none">None</string>
+
+    <!-- 設定画面 -->
+    <string name="settings_auto_disconnect">Time to disconnect</string>
+    <string name="settings_auto_disconnect_receive_sms">Receive SMS</string>
+    <string name="settings_auto_disconnect_connect">Receive SMS</string>
+
+    <string name="configurations_conjunction_enable">Connect in conjunction with another application</string>
+
+    <string name="configurations_enable_vibration">Vibration at ON/OFF</string>
+
+
+</resources>
